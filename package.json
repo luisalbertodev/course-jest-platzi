@@ -1,0 +1,21 @@
+{
+	"name": "platzi-jest",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"author": "Luis Alberto Pérez Coello <luisalbertodev@gmail.com>",
+	"description": "Curso de Jest | Pruebas unitarias",
+	"keywords": [
+		"jest",
+		"testing"
+	],
+	"license": "MIT",
+	"devDependencies": {
+		"@babel/core": "^7.14.3",
+		"@babel/preset-env": "^7.14.2",
+		"babel-jest": "^26.6.3",
+		"jest": "^26.6.3"
+	}
+}
